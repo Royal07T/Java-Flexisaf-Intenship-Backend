@@ -3,11 +3,11 @@
 
 # ☕ Java Internship Tasks — Week 1 & 2
 
-Welcome to my Java Internship project repository! This contains hands-on Java practice and SQL database exercises completed during **Week 1 and Week 2** of the internship. I'm using **Java (JDK 17 & 21)** on **Ubuntu** via **VS Code**, and integrating version control with **GitHub**.
+Welcome to my Java Internship project repository! This contains hands-on Java practice and SQL database exercises completed during **Week 1 and Week 2** of the internship. I'm using **Java (JDK 21)** on **Ubuntu** via **VS Code**, and integrating version control with **GitHub**.
 
 ---
 
-## ✅ Week 1 Tasks
+##  Week 1 Tasks
 
 ### 1️⃣ Generic Counter with Java Generics
 A program that counts elements in a collection that satisfy a given property (e.g. odd numbers, prime numbers, palindromes).
